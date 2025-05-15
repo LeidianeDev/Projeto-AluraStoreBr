@@ -1,9 +1,12 @@
 📊 Análise de Desempenho das Lojas – Alura Store
-Este projeto realiza uma análise exploratória dos dados de quatro lojas fictícias da rede Alura Store, com o objetivo de identificar a unidade com menor desempenho e orientar o Sr. João em uma decisão estratégica
+
+Este projeto realiza uma análise exploratória dos dados de quatro lojas fictícias da rede Alura Store, com o objetivo de identificar a unidade com menor desempenho e orientar 
+o Sr. João em uma decisão estratégica
 de venda.
 
 🎯 Objetivo
-Avaliar os principais indicadores de desempenho das quatro lojas da Alura Store, visando identificar aquela que apresenta menor eficiência operacional e financeira, tornando-se a candidata ideal para ser vendida. 
+Avaliar os principais indicadores de desempenho das quatro lojas da Alura Store, visando identificar aquela que apresenta menor eficiência operacional e financeira, 
+tornando-se a candidata ideal para ser vendida. 
 A venda permitirá ao Sr. João investir em um novo empreendimento com maior potencial de crescimento.
 
 🔍 Indicadores Avaliados
